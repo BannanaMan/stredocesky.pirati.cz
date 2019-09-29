@@ -8,11 +8,11 @@ facebook: PiratiPB
 forum: https://forum.pirati.cz/viewforum.php?f=692
 predsednictvo:
  - funkce: předseda
-   jmeno: Jan Trnka
+   jmeno: Josef Bouše
  - funkce: 1. místopředseda
    jmeno: Antonín Schejbal
  - funkce: 2. místopředseda
-   jmeno: Josef Bouše
+   jmeno: Simona Luftová
 mandat-do: 14.04.2020
 volba: https://forum.pirati.cz/viewtopic.php?f=696&t=40826
 ---
